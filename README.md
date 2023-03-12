@@ -1,6 +1,21 @@
 ### Olá! Eu sou o Lucas Henrique
 
-- 🌱 Estudando JavaScript e PHP
+- 🌱 Atualmente estudando:
+<div>
+
+  <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  
+  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+ <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
+
+  <img align="center" alt="Lucas-PHP" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+
+</div>
+
+<br>
+
 - 📫 Entrar em contato:
 <div> 
   <a href = "mailto:lucashenriquedev1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
