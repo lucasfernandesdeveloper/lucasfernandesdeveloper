@@ -1,4 +1,4 @@
-### Olá! Eu sou o Lucas Henrique 👋
+### Olá! Eu sou o Lucas Henrique
 
 - 🌱 Estudando JavaScript e PHP
 - 📫 Entrar em contato:
