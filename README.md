@@ -9,6 +9,8 @@ Olá, sou Lucas Fernandes, tenho 17 anos. Atualmente estou cursando o curso Téc
 
 <div>Linguagens: PHP, Laravel, JavaScript</div>
 
+<br>
+
 
 Através do curso de informática do Senai conheci a área de desenvolvimento pela qual me apaixonei, desde então tenho me dedicado ao estudo desta área. 
 Entre em contato comigo: 
