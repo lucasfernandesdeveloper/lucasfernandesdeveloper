@@ -1,4 +1,4 @@
-### <div>Olá! Eu sou o Lucas Fernandes</div>
+### <div>Olá! Eu sou Lucas Fernandes</div>
 
 
 <div width="100%">
