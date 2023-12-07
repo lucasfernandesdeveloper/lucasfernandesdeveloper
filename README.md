@@ -7,7 +7,7 @@ Olá, sou Lucas Fernandes, tenho 17 anos. Atualmente estou cursando o curso Téc
 
 </div>
 
-<div>Linguagens: PHP, Laravel, JavaScript</div>
+<div>Linguagens e Frameworks: PHP, Laravel, JavaScript, Bootstrap, Tailwind.</div>
 
 <br>
 
