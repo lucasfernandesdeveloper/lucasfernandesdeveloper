@@ -3,7 +3,7 @@
 
 <div width="100%">
 
-Olá, sou Lucas Fernandes, tenho 17 anos. Atualmente estou cursando o curso Técnico de Informática pelo Senai - CTTI Belo Horizonte e juntamente a isso curso Técnico em Desenvolvimento de Sistemas pelo Proz Educação.
+Olá, sou Lucas Fernandes, tenho 18 anos. Atualmente estou cursando o curso Técnico de Informática pelo Senai - CTTI Belo Horizonte e juntamente a isso curso Técnico em Desenvolvimento de Sistemas pelo Proz Educação.
 
 </div>
 
